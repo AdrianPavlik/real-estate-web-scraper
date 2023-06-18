@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@pypi/beautifulsoup4": "^4.6.1",
+    "docker": "^1.0.0",
+    "docker-cli": "^0.0.2"
+  }
+}
