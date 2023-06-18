@@ -11,13 +11,12 @@ Please note that the app is only supported only for Slovak market, since I study
 
 <div align="center">
 
-| Website | Fully supported | Partialy supported |
-| ----------- |:-----------:|:-----------:|
-| [reality.sk](https://www.reality.sk) | ⬜ | ⬜
-| [nehnutelnosti.sk](https://www.nehnutelnosti.sk) |⬜ | ⬜
-| [topreality.sk](https://www.topreality.sk/) |⬜ | ⬜
-| [bazos.sk](https://reality.bazos.sk/inzeraty/) |⬜ | ⬜
-| [zoznamrealit.sk](https://www.zoznamrealit.sk/) |⬜ | ⬜
+| Website | Supported |
+| ----------- |:-----------:|
+| [reality.sk](https://www.reality.sk) | ❌ |
+| [nehnutelnosti.sk](https://www.nehnutelnosti.sk) |✅ |
+| [topreality.sk](https://www.topreality.sk/) |❌ |
+| [zoznamrealit.sk](https://www.zoznamrealit.sk/) |❌ |
 
 </div>
 
