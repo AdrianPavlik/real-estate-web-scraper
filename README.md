@@ -29,3 +29,5 @@ You can download enviroment variables, needed for the code to work [here](https:
 
 ## Installing libraries
 `pip install -r .\packages.txt`
+<br/>
+`npm install`
